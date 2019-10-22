@@ -8,4 +8,5 @@ https://ieeexplore.ieee.org/document/8856904
 
 Carette, R., Elbattah, M., Dequen, G., Guérin, J, & Cilia, F. (2019, February). Learning to predict autism spectrum disorder based on the visual patterns of eye-tracking scanpaths. In Proceedings of the 12th International Conference on Health Informatics (HEALTHINF 2019). https://www.researchgate.net/publication/331784416_Learning_to_Predict_Autism_Spectrum_Disorder_based_on_the_Visual_Patterns_of_Eye-tracking_Scanpaths
 
-Carette, R., Elbattah, M., Dequen, G., Guérin J.L., & Cilia F. (2018, September). Visualization of eye-tracking patterns in autism spectrum disorder: method and dataset. In Proceedings of the 13th International Conference on Digital Information Management (ICDIM 2018).IEEE. https://ieeexplore.ieee.org/document/8846967
+Carette, R., Elbattah, M., Dequen, G., Guérin J.L., & Cilia F. (2018, September). Visualization of eye-tracking patterns in autism spectrum disorder: method and dataset. In Proceedings of the 13th International Conference on Digital Information Management (ICDIM 2018).IEEE.
+https://ieeexplore.ieee.org/document/8846967

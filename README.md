@@ -3,6 +3,8 @@ This work presents an approach to help with the autism diagnosis using Machine L
 
 Publications:
 
-Carette, R., Elbattah, M., Dequen, G., Guérin, J, & Cilia, F. (2019, February). Learning to predict autism spectrum disorder based on the visual patterns of eye-tracking scanpaths. <i>In Proceedings of the 12th International Conference on Health Informatics (HEALTHINF 2019)</i>. [In Press]
+Elbattah, M., Carette, R. ,Dequen, G., Guérin, J, & Cilia, F. (2019, July). Learning Clusters in Autism Spectrum Disorder: Image-Based Clustering of Eye-Tracking Scanpaths with Deep Autoencoder. In Proceedings of the 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). IEEE. [URL]
 
-Carette, R., Elbattah, M., Dequen, G., Guérin J.L., & Cilia F. (2018, September). Visualization of eye-tracking patterns in autism spectrum disorder: method and dataset. <i>In Proceedings of the 13th International Conference on Digital Information Management (ICDIM 2018)</i>. IEEE. [In Press]
+Carette, R., Elbattah, M., Dequen, G., Guérin, J, & Cilia, F. (2019, February). Learning to predict autism spectrum disorder based on the visual patterns of eye-tracking scanpaths. In Proceedings of the 12th International Conference on Health Informatics (HEALTHINF 2019). [URL]
+
+Carette, R., Elbattah, M., Dequen, G., Guérin J.L., & Cilia F. (2018, September). Visualization of eye-tracking patterns in autism spectrum disorder: method and dataset. In Proceedings of the 13th International Conference on Digital Information Management (ICDIM 2018).IEEE. [URL]

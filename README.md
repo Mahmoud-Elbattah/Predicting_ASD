@@ -1,6 +1,8 @@
 # Predicting Autism Spectrum Disorder (ASD)
 This work presents an approach to help with the autism diagnosis using Machine Learning and eye-tracking. The key idea is to learn the visual patterns of eye-tracking scanpaths, and hence the diagnosis can be approached as an image classification task. Our experimental results demonstrated that the visual representation could simplify the prediction problem, and attain a high accuracy as well. With simple neural network models, our approach could realize quite promising accuracy (AUC≈91.5%).
 
+https://mahmoud-elbattah.github.io/ML4Autism/
+
 Publications:
 
 Elbattah, M., Carette, R. ,Dequen, G., Guérin, J, & Cilia, F. (2019, July). Learning Clusters in Autism Spectrum Disorder: Image-Based Clustering of Eye-Tracking Scanpaths with Deep Autoencoder. In Proceedings of the 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). IEEE.
